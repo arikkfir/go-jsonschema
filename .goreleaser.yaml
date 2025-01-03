@@ -41,7 +41,7 @@ brews:
   - name: go-jsonschema
     repository:
       owner: arikkfir
-      name: homebrew-go-jsonschema
+      name: go-jsonschema
     skip_upload: auto
     directory: Formula
     homepage: https://gihub.com/arikkfir/go-jsonschema
